@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/ivanjankovic.github.io/static/css/main.e66754e2.chunk.css"
   },
   {
-    "revision": "e0c27a9601552ff9941c1fb75c6139cc",
+    "revision": "5f2a61bb11f3b7c8313c479844087bac",
     "url": "/ivanjankovic.github.io/index.html"
   }
 ];
